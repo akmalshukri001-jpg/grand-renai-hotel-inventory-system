@@ -1,0 +1,1 @@
+# grand-renai-hotel-inventory-system
