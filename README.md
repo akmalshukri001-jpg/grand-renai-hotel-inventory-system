@@ -1,3 +1,4 @@
+
 # grand_renai_inventory_system
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# grand-renai-hotel-inventory-system
+>>>>>>> 3069dfd99a9c16d149fe7670918a4a981817fd44
