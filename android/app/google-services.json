@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791309423472",
+    "project_id": "grandrenaiinventory",
+    "storage_bucket": "grandrenaiinventory.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791309423472:android:9ba6ec8fc3ed9daeedf5b5",
+        "android_client_info": {
+          "package_name": "com.example.grand_renai_inventory_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0i84PdfxP6X0wiIdcYEyBcIDaaLuHgCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

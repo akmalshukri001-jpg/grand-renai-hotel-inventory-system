@@ -1,0 +1,55 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "grandrenaiinventory",
+          "appId": "1:791309423472:android:9ba6ec8fc3ed9daeedf5b5",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "grandrenaiinventory",
+          "appId": "1:791309423472:ios:61ad8c6c34de9a19edf5b5",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "grandrenaiinventory",
+          "appId": "1:791309423472:ios:61ad8c6c34de9a19edf5b5",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "grandrenaiinventory",
+          "configurations": {
+            "android": "1:791309423472:android:9ba6ec8fc3ed9daeedf5b5",
+            "ios": "1:791309423472:ios:61ad8c6c34de9a19edf5b5",
+            "macos": "1:791309423472:ios:61ad8c6c34de9a19edf5b5",
+            "web": "1:791309423472:web:239b1c2ffe24c5d7edf5b5",
+            "windows": "1:791309423472:web:2b6ff831c9e57d36edf5b5"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
